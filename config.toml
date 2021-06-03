@@ -1,4 +1,4 @@
-baseURL = "https://ndtj.github.io"
+baseURL = "https://awesome-raman-041842.netlify.app"
 theme = "hugo-apero"
 languageCode = "pt-BR"
 title = "Núcleo de Direito, Tecnologia e Jurimetria"
