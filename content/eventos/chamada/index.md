@@ -27,7 +27,7 @@ title: Chamada para propostas de pesquisas
 
 Estão abertas as submissões de pesquisas acompanhadas pelo NDTJ para o 2º semestre de 2021!
 
-Uma vez por semestre, o NDTJ fará uma chamada para propostas de pesquisas jurimétricas. O núcleo auxiliará pessoas pesquisadoras interessadas em desenvolver as pesquisas com bases de dados e orientação na metodologia de pesquisa. Daremos prioridade a temas que envolvam pessoas em vulnerabilidade social.
+Uma vez por semestre, o NDTJ fará uma chamada para propostas de __pesquisas jurimétricas__. O núcleo auxiliará pessoas pesquisadoras interessadas em desenvolver as pesquisas com __bases de dados e orientação__ na metodologia de pesquisa. Daremos prioridade a temas que envolvam pessoas em situação de __vulnerabilidade social__.
 
 ## Regras
 
