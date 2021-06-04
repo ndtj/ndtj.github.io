@@ -13,7 +13,7 @@ A generalização do uso de computadores dentro do poder judiciário e da admini
 
 A partir dessas interações áreas de pesquisa e mercados inovadores surgiram, destacando-se o mercado de legal techs, as análises de impacto regulatório e os departamentos de tecnologia e gestão nas entidades governamentais, escritórios de advocacia e departamentos jurídicos. 
 
-O Núcleo de Direito, Tecnologia e Jurimetria (NDTJ) é um centro acadêmico de formação e relacionando tecnologia, inteligência artificial e jurimetria aplicadas ao direito.
+O Núcleo de Direito, Tecnologia e Jurimetria (NDTJ) é um centro acadêmico de formação, relacionando tecnologia, inteligência artificial e jurimetria aplicadas ao direito.
 
 O NDTJ interagirá com todos os departamentos da faculdade de direito com interesse em tecnologia, inteligência artificial e jurimetria, bem como oferecerá matérias básicas optativas para os cursos de graduação e matérias avançadas para alunos da pós-graduação lato e stricto sensu.
 
