@@ -2,7 +2,7 @@
 action_label: Mais &rarr;
 action_link: /about
 action_type: text
-description: O NDTJ é um centro acadêmico de formação, relacionando tecnologia, inteligência artificial e jurimetria aplicadas ao direito.
+description: O NDTJ é um centro acadêmico de formação, relacionando tecnologia, inteligência artificial e jurimetria.
 image_left: false
 images:
 - /img/banner.jpg
