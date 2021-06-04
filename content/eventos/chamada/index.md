@@ -34,9 +34,9 @@ Uma vez por semestre, o NDTJ fará uma chamada para propostas de __pesquisas jur
 Para submeter uma proposta de pesquisa, é necessário:
 
 - Informar um/a professor/a responsável.
-- Possuir uma equipe de pessoas pesquisadoras do direito, responsáveis pelos trabalhos de coleta e elaboração de relatórios. __Obs__: Não é necessário possuir uma equipe de cientistas de dados.
-- Definir as questões norteadoras da pesquisa
-- Definir o [recorte da pesquisa (temporal, regional, etc)](https://forum.abj.org.br/t/como-obter-dados-de-processos-judiciais/40). Se tiver dúvidas sobre essa parte, ficaremos feliz em ajudar fazendo uma reunião prévia. [Agende uma reunião por aqui](calendly.com/jtrecenti).
+- Possuir uma equipe de pessoas pesquisadoras do direito, responsáveis pelos trabalhos de coleta e elaboração de relatórios e artigos científicos. __Obs__: Não é necessário possuir uma equipe de cientistas de dados.
+- Definir as questões norteadoras da pesquisa.
+- Definir o [recorte da pesquisa (temporal, regional, etc)](https://forum.abj.org.br/t/como-obter-dados-de-processos-judiciais/40). Se tiver dúvidas sobre essa parte, ficaremos feliz em ajudar fazendo uma reunião prévia. [Agende uma reunião por aqui](https://calendly.com/jtrecenti).
 
 ## Submissão
 
