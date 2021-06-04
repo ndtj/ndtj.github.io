@@ -31,17 +31,33 @@ Uma vez por semestre, o NDTJ fará uma chamada para propostas de __pesquisas jur
 
 ## Regras
 
-Para submeter uma proposta de pesquisa, é necessário:
+* A proposta de pesquisa deve ser apresentada por um/a professor/a da faculdade de direito da PUC-SP como responsável.
+* A proposta deve ser apresentada através do formulário constante desta página.
+* A proposta deve indicar um tema geral e até quatro questões norteadoras de forma clara.
+* O prazo de submissão deve ser rigorosamente respeitado.
+* A proposta deve explicar a relevância do tema, seu impacto na sociedade e a razão pela qual foi escolhida. 
+* A proposta deve definir o [recorte da pesquisa (temporal, regional, temático)](https://forum.abj.org.br/t/como-obter-dados-de-processos-judiciais/40) de forma clara.
 
-- Informar um/a professor/a responsável.
-- Possuir uma equipe de pessoas pesquisadoras do direito, responsáveis pelos trabalhos de coleta e elaboração de relatórios e artigos científicos. __Obs__: Não é necessário possuir uma equipe de cientistas de dados.
-- Definir as questões norteadoras da pesquisa.
-- Definir o [recorte da pesquisa (temporal, regional, etc)](https://forum.abj.org.br/t/como-obter-dados-de-processos-judiciais/40). Se tiver dúvidas sobre essa parte, ficaremos feliz em ajudar fazendo uma reunião prévia. [Agende uma reunião por aqui](https://calendly.com/jtrecenti).
+## Avaliação
+
+A avaliação das propostas considerará os seguintes critérios: 
+
+1. Benefício a parcelas vulneráveis da população.
+1. Acessibilidade e qualidade dos dados a serem coletados.
+1. Existência de equipe de estudantes disposta a participar como pesquisadores do direito, responsáveis pelos trabalhos de coleta e elaboração de relatórios e artigos científicos.
+1. Relevância e impacto social do tema.
+
+__Obs__: Não é necessário possuir uma equipe de cientistas de dados para submeter uma proposta.
+
+Se tiver dúvidas sobre essa parte, ficaremos felizes em ajudar fazendo uma reunião prévia. [Agende uma reunião por aqui](https://calendly.com/jtrecenti).
 
 ## Submissão
 
 Para submeter uma proposta, preencha [este formulário](https://docs.google.com/forms/d/e/1FAIpQLSdLFb1UtCXwoFvf4vZ1WsF2lfzeHGJlqEqqMaXHmW6i3XFHMQ/viewform).
 
-Agradecemos muito por sua participação! :smile:
+## Prazos
 
+- As propostas devem ser enviadas até o dia __06/08/2021, às 23:59:59__.
+- Os resultados serão divulgados no dia __20/08/2021__.
 
+Agradecemos muito pela sua participação! :smile:
