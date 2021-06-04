@@ -2,7 +2,7 @@
 author: Julio Trecenti
 categories:
 - chamadas
-date: "2021-07-05"
+date: "2021-06-04"
 date_end: "2021-08-01"
 draft: false
 event: Chamada para propostas de pesquisas.
