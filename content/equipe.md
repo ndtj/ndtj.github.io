@@ -18,7 +18,7 @@ Atua nas áreas de Tecnologia, Propriedade Intelectual e Telecomunicações, bem
 
 ## Colaboradores
 
-[Julio Trecenti](https://www.allisonhorst.com/) (descrição)
+[Julio Trecenti](https://www.allisonhorst.com/)
 
 Doutorando em Estatística pelo IME-USP. Secretário-geral da Associação Brasileira de Jurimetria (ABJ). Sócio da Terranova Jurimetria. Conselheiro do CONFE. Professor de programação na Curso-R. Professor auxiliar de modelagem preditiva no Insper.
 
