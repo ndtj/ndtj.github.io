@@ -49,7 +49,6 @@ A avaliação das propostas considerará os seguintes critérios:
 
 __Obs__: Não é necessário possuir uma equipe de cientistas de dados para submeter uma proposta.
 
-Se tiver dúvidas sobre essa parte, ficaremos felizes em ajudar fazendo uma reunião prévia. [Agende uma reunião por aqui](https://calendly.com/jtrecenti).
 
 ## Submissão
 
