@@ -143,6 +143,12 @@ enableEmoji = true
     title = "Equipe"
     url = "/equipe/"
     weight = 2
+  [[menu.header]]
+    name = "Cursos"
+    title = "Cursos"
+    url = "https://ndtj.github.io/main-jurimetria/"
+    target = "_blank"
+    weight = 5
   #[[menu.header]]
   #  name = "Elements"
   #  title = "Element Page"
